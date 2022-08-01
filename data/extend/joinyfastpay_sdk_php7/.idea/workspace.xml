@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6973805e-fccc-485d-b10c-e083a5c0c469" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SDKException</find>
+      <find>BizException</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Exception</replace>
+      <replace>SDKException</replace>
+    </replaceStrings>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1UbDIl2l5XCe8MFT1eqLnDbarkv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Lori\sdk-php7\utils" />
+      <recent name="E:\projects\xpay\sdk\sdk-php\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\xpay\sdk\sdk-php" />
+      <recent name="E:\projects\xpay\sdk\sdk-php\test\vo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.Demo.php">
+    <configuration name="BatchTest.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/BatchTest.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Demo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/Demo.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.Demo.php" />
+      <item itemvalue="PHP Script.BatchTest.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.BatchTest.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6973805e-fccc-485d-b10c-e083a5c0c469" name="Default Changelist" comment="" />
+      <created>1572604464996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572604464996</updated>
+      <workItem from="1572604466191" duration="503000" />
+      <workItem from="1572945110593" duration="11754000" />
+      <workItem from="1573008377954" duration="4710000" />
+      <workItem from="1573032780778" duration="3560000" />
+      <workItem from="1575336640135" duration="7737000" />
+      <workItem from="1575616328990" duration="6580000" />
+      <workItem from="1575859199435" duration="6226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="102" y="0" key="#CLI_Interpreters" timestamp="1575619760719">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="102" y="0" key="#CLI_Interpreters/0.0.1280.680@0.0.1280.680" timestamp="1575619760719" />
+    <state x="357" y="53" key="#Demo.php" timestamp="1575617740251">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="53" key="#Demo.php/0.0.1280.680@0.0.1280.680" timestamp="1575617740251" />
+    <state x="302" y="97" key="FileChooserDialogImpl" timestamp="1575619758000">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="302" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1575619758000" />
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom" timestamp="1575881692805">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575881692805" />
+    <state width="1237" height="200" key="GridCell.Tab.0.center" timestamp="1575881692802">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="200" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575881692802" />
+    <state width="1237" height="200" key="GridCell.Tab.0.left" timestamp="1575881692802">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="200" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575881692802" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right" timestamp="1575881692804">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="200" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575881692804" />
+    <state x="24" y="0" key="SettingsEditor" timestamp="1575619762492">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="24" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575619762492" />
+    <state x="336" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1575859199112">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1575859199112" />
+  </component>
+</project>
